@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <rect width="1024" height="500" fill="#0a0a12"/>
+  <text x="512" y="200" font-size="120" text-anchor="middle" dominant-baseline="middle">📖</text>
+  <text x="512" y="320" font-size="52" fill="#f0e6ff" text-anchor="middle" font-family="sans-serif" font-weight="800">Word of the Day</text>
+  <text x="512" y="390" font-size="28" fill="#c084fc" text-anchor="middle" font-family="sans-serif">Expand your vocabulary, one word at a time.</text>
+</svg>

@@ -48,7 +48,7 @@ Everyone (no violence, no adult content, no ads)
 Education > Language & Linguistics
 
 ## Privacy Policy URL
-https://mauriceg.github.io/word-of-the-day/privacy
+https://muscamo.github.io/word-of-the-day/privacy.html
 
 ---
 
